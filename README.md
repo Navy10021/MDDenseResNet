@@ -54,4 +54,5 @@ MDResNet models demonstrate unparalleled efficiency in identifying malicious sof
 - Soon!
 
 ## 👨‍💻 Contributors
-- Navy Lee
+Seoul National University GSDS NLP Labs
+Under the guidance of Navy Lee
