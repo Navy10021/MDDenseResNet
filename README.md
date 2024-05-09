@@ -27,7 +27,7 @@ Our models are trained on diverse malware image datasets, designed to challenge 
 - **Malware-1000**: 10,000 images, enhanced with data augmentation for richer training data.
 - **Malware-5000**: Our largest dataset with 50,000 images, providing the depth needed for comprehensive model training.
 
-Refer to the Jupyter notebook in notebooks/Malware_Dataset.ipynb.ipynb
+Refer to the Jupyter notebook in ***notebooks/Malware_Dataset.ipynb***
 
 ## 📦 Model 
 ### Key Components of DenseResNet
