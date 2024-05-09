@@ -31,7 +31,7 @@ Train and evaluate the models with ease:
 ```python
 python malware_dataset.py --dataset [dataset_path]
 python model_train.py --dataset [dataset_path] --model [mdresnet18|mdresnet34|mdensedresnet18|mdensedresnet34]
-
+```
 Alternatively, please refer to Malware_Dataset.ipynb and MDResNet18_malware_500.ipynb.
 
 ## 📈 Results
