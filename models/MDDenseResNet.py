@@ -81,4 +81,4 @@ class MDDenseResNet(nn.Module):
 # Example of creating the model
 #model = DenseResNet(ResidualDenseLayer, [6, 12, 24, 16], num_classes=9)
 # Light version
-model = MDDenseResNet(ResidualDenseLayer, [3, 6, 12, 8], num_classes=9, bn_size=2)
+#model = MDDenseResNet(ResidualDenseLayer, [3, 6, 12, 8], num_classes=9, bn_size=2)
