@@ -2,10 +2,6 @@
 
 # 🛡️ MDResNet: Enhanced Malware Detection Using Neural Network
 
-🌐 [Visit Project Page](#) | 📄 [View Documentation](#) | 🔄 [Contribute](#contributing)
-
-![MDResNet Banner](link-to-banner-image)
-
 </div>
 
 ---
@@ -16,12 +12,10 @@
 
 ## 📋 Table of Contents
 
-- [Dataset](#dataset)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [Citations](#citations)
+- [Dataset](#Dataset)
+- [Usage](#Usage)
+- [Results](#Results)
+- [License](#License)
 
 ## 📊 Dataset
 
@@ -38,11 +32,14 @@ Train and evaluate the models with ease:
 python malware_dataset.py --dataset [dataset_path]
 python model_train.py --dataset [dataset_path] --model [mdresnet18|mdresnet34|mdensedresnet18|mdensedresnet34]
 
-Or 
+Alternatively, please refer to Malware_Dataset.ipynb and MDResNet18_malware_500.ipynb.
+
 ## 📈 Results
 
 MDResNet models demonstrate unparalleled efficiency in identifying malicious software, particularly those elusive zero-day threats. Dive into our comprehensive performance analysis here.
 
 ***Table 1***
 
-## 📚 Citations
+## 📚 Paper
+
+- Soon!
