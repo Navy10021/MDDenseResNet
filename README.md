@@ -27,7 +27,7 @@ Our models are trained on diverse malware image datasets, designed to challenge 
 - **Malware-1000**: 10,000 images, enhanced with data augmentation for richer training data.
 - **Malware-5000**: Our largest dataset with 50,000 images, providing the depth needed for comprehensive model training.
 
-## Model 
+## 📦 Model 
 ### Key Components of DenseResNet
 ### 1. Residual Learning (from ResNet)
 - **Residual Blocks**: These are the building blocks of ResNet, where the input to a block is directly added to the output of the block through a shortcut connection. This helps in training deeper networks by enabling direct backward paths for gradients during training, effectively addressing the vanishing gradient problem.
@@ -52,3 +52,6 @@ MDResNet models demonstrate unparalleled efficiency in identifying malicious sof
 ## 📚 Paper
 
 - Soon!
+
+## 👨‍💻 Contributors
+- Navy Lee
