@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ MDResNet: Enhanced Malware Detection Using Deep Learning
+# 🛡️ MDResNet: Enhanced Malware Detection Using Neural Network
 
 🌐 [Visit Project Page](#) | 📄 [View Documentation](#) | 🔄 [Contribute](#contributing)
 
@@ -16,7 +16,6 @@
 
 ## 📋 Table of Contents
 
-- [Installation](#installation)
 - [Dataset](#dataset)
 - [Usage](#usage)
 - [Results](#results)
@@ -24,11 +23,10 @@
 - [License](#license)
 - [Citations](#citations)
 
-## 💽 Installation
+## 📊 Dataset
 
-To set up your environment and run MDResNet:
+Our models are trained on diverse malware image datasets, designed to challenge and test the robustness of MDResNet:
 
-```bash
-git clone https://github.com/yourusername/MDResNet.git
-cd MDResNet
-pip install -r requirements.txt
+- Malware-500: Derived from 12,000 base samples across 9 classes, using undersampling to ensure equity.
+- Malware-1000: 10,000 images, enhanced with data augmentation for richer training data.
+- Malware-5000: Our largest dataset with 50,000 images, providing the depth needed for comprehensive model training.
