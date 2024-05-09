@@ -43,7 +43,7 @@ Refer to the Jupyter notebook in ***notebooks/Malware_Dataset.ipynb***
 
 ## 🚀 Usage and Example
 Data preprocessing and Train & evaluate the models with ease :
-Refer to the Jupyter notebook in ***notebooks/MDResNet18_malware_500.ipynb.ipynb*** for a detailed usage example.
+Refer to the Jupyter notebook in ***notebooks/MDDenseResNet18_malware_500.ipynb.ipynb*** for a detailed usage example.
 
 ## 📈 Results
 
