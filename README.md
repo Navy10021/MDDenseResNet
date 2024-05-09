@@ -27,6 +27,12 @@
 
 Our models are trained on diverse malware image datasets, designed to challenge and test the robustness of MDResNet:
 
-- Malware-500: Derived from 12,000 base samples across 9 classes, using undersampling to ensure equity.
-- Malware-1000: 10,000 images, enhanced with data augmentation for richer training data.
-- Malware-5000: Our largest dataset with 50,000 images, providing the depth needed for comprehensive model training.
+- **Malware-500**: Derived from 12,000 base samples across 9 classes, using undersampling to ensure equity.
+- **Malware-1000**: 10,000 images, enhanced with data augmentation for richer training data.
+- **Malware-5000**: Our largest dataset with 50,000 images, providing the depth needed for comprehensive model training.
+
+## 🚀 Usage
+Train and evaluate the models with ease:
+```python
+python train.py --dataset [dataset_path] --model [mdresnet18|mdresnet34|mdensedresnet18|mdensedresnet34]
+python evaluate.py --model_path [path_to_trained_model]
