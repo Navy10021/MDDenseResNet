@@ -8,7 +8,7 @@
 
 ## 📑 Project Overview
 
-**MDResNet** modifies the traditional **ResNet architecture** to enhance its capability in detecting malware, focusing on complex threats such as polymorphic and zero-day malware. This repository hosts the code, datasets, and comprehensive documentation used in our research, showcasing superior performance against traditional models like ResNet-18/34.
+**MDResNet** modifies the traditional **ResNet and DenseNet architecture** to enhance its capability in detecting malware, focusing on complex threats such as polymorphic and zero-day malware. This repository hosts the code, datasets, and comprehensive documentation used in our research, showcasing superior performance against traditional models like ResNet-18/34.
 
 ## 📋 Table of Contents
 
