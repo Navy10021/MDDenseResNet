@@ -32,7 +32,17 @@ Our models are trained on diverse malware image datasets, designed to challenge 
 - **Malware-5000**: Our largest dataset with 50,000 images, providing the depth needed for comprehensive model training.
 
 ## 🚀 Usage
+Data preprocessing and Train & evaluate the models with ease 
 Train and evaluate the models with ease:
 ```python
-python train.py --dataset [dataset_path] --model [mdresnet18|mdresnet34|mdensedresnet18|mdensedresnet34]
-python evaluate.py --model_path [path_to_trained_model]
+python malware_dataset.py --dataset [dataset_path]
+python model_train.py --dataset [dataset_path] --model [mdresnet18|mdresnet34|mdensedresnet18|mdensedresnet34]
+
+Or 
+## 📈 Results
+
+MDResNet models demonstrate unparalleled efficiency in identifying malicious software, particularly those elusive zero-day threats. Dive into our comprehensive performance analysis here.
+
+***Table 1***
+
+## 📚 Citations
