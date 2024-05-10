@@ -29,7 +29,7 @@ Our models are trained on diverse malware image datasets, designed to challenge 
 Refer to the Jupyter notebook in ***notebooks/Malware_Dataset.ipynb***
 
 ## 📦 Model 
-### Key Components of DenseResNet
+### Key Components of MDDenseResNet
 ### 1. Residual Learning (from ResNet)
 - **Residual Blocks**: These are the building blocks of ResNet, where the input to a block is directly added to the output of the block through a shortcut connection. This helps in training deeper networks by enabling direct backward paths for gradients during training, effectively addressing the vanishing gradient problem.
 ### 2. Dense Connectivity (from DenseNet)
