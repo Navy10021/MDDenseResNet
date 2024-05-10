@@ -7,10 +7,9 @@
 ---
 
 ## 📑 Project Overview
+ With the advent of the digital age, cyberspace has been exposed to a variety of threats. Among these, malware represents a significant and potent cyber threat. Operating without user consent, it can steal information, damage systems, and initiate widespread network attacks. A systematic approach to prevention and response is essential to combat the threats posed by malware. 
 
-**DenseResNet** hybrid model is a conceptual framework that combines the strengths of both ResNet (Residual Network) and DenseNet (Densely Connected Network) architectures.  **MDDenseResNet** modifies the traditional **ResNet and DenseNet architecture** to enhance its capability in detecting malware, focusing on complex threats such as polymorphic and zero-day malware. This repository hosts the code, datasets, and comprehensive documentation used in our research, showcasing superior performance against traditional models like ResNet-18/34.
-
-
+ In this project, we transform malware into images and introduce an advanced neuron network based malware detection AI model. Inspired by **ResNet (Microsoft., 2015)** and **DensNet (Meta., 2016)** image analysis models, we develop **1. MDResNet(Malware Detection Residual Network)**, **2. MDDenseNet(Malware Detection Sense Network** and a hybrid model, **3. MDDenseResNet (Malware Detection Block in Residual Network)**.
 
 ## 📋 Table of Contents
 
