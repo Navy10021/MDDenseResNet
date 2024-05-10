@@ -9,7 +9,7 @@
 ## 📑 Project Overview
  With the advent of the digital age, cyberspace has been exposed to a variety of threats. Among these, malware represents a significant and potent cyber threat. Operating without user consent, it can steal information, damage systems, and initiate widespread network attacks. A systematic approach to prevention and response is essential to combat the threats posed by malware. 
 
- In this project, we transform malware into images and introduce an advanced neuron network based malware detection AI model. Inspired by **ResNet (Microsoft., 2015)** and **DenseNet (Meta., 2016)** image analysis models, we develop 1️⃣ ***MDResNet(Residual Network for Malware Detection)***  2️⃣ ***MDDenseNet(DSense Network Malware Detection)*** and a hybrid model, 3️⃣ ***MDDenseResNet***.
+ In this project, we transform malware into images and introduce an advanced neuron network based malware detection AI model. Inspired by **ResNet (Microsoft., 2015)** and **DenseNet (Meta., 2016)** image analysis models, we develop 1️⃣ ***MDResNet(Residual Network for Malware Detection)***  2️⃣ ***MDDenseNet(Dense Network Malware Detection)*** and a hybrid model, 3️⃣ ***MDDenseResNet***.
 
 ## 📋 Table of Contents
 
