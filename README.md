@@ -52,8 +52,8 @@ MDResNet models demonstrate unparalleled efficiency in identifying malicious sof
 
 ## 📚 Paper
 
-- 📝 심층 신경망 아키텍처를 활용한 차세대 악성코드 탐지 기법에 관한 연구 : 악성코드 시각화 및 식별 모델 📝
-- 📝 MDDeResearch on Next-Generation Malware Detection Techniques Using Deep Neural Network Architectures : Development of the Malware Visualization and Identification Model MDDenseResNet📝
+- 📝 심층 신경망 아키텍처를 활용한 차세대 악성코드 탐지 기법에 관한 연구 : 악성코드 시각화 및 식별 모델
+- 📝 MDDeResearch on Next-Generation Malware Detection Techniques Using Deep Neural Network Architectures : Development of the Malware Visualization and Identification Model MDDenseResNet
 
 ## 👨‍💻 Contributors
 Seoul National University GSDS NLP Labs
