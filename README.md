@@ -52,7 +52,7 @@ MDResNet models demonstrate unparalleled efficiency in identifying malicious sof
 
 ## 📚 Paper
 
-- Soon!
+- "악성코드 시각화 및 심층 신경망 네트워크를 활용한 악성코드 탐지 방법론에 대한 연구"
 
 ## 👨‍💻 Contributors
 Seoul National University GSDS NLP Labs
