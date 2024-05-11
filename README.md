@@ -9,7 +9,7 @@
 ## 📑 Project Overview
  With the advent of the digital age, cyberspace has been exposed to a variety of threats. Among these, malware represents a significant and potent cyber threat. Operating without user consent, it can steal information, damage systems, and initiate widespread network attacks. A systematic approach to prevention and response is essential to combat the threats posed by malware. 
 
- In this project, we transform malware into images and introduce an advanced neuron network based malware detection AI model. Inspired by **ResNet (Microsoft., 2015)** and **DenseNet (Meta., 2016)** image analysis models, we develop 1️⃣ ***MDResNet(Residual Network for Malware Detection)***  2️⃣ ***MDDenseNet(Dense Network Malware Detection)*** and a hybrid model, 3️⃣ ***MDDenseResNet***.
+ In this project, we transform malware into images and introduce an advanced neuron network-based malware detection AI model. Inspired by **ResNet (Microsoft., 2015)** and **DenseNet (Meta., 2016)** image analysis models, we develop 1️⃣ ***MDResNet(Residual Network for Malware Detection)***  2️⃣ ***MDDenseNet(Dense Network Malware Detection)*** and a hybrid model, 3️⃣ ***MDDenseResNet***.
 
 ## 📋 Table of Contents
 
@@ -52,8 +52,8 @@ MDResNet models demonstrate unparalleled efficiency in identifying malicious sof
 
 ## 📚 Paper
 
-- 📝 심층 신경망 아키텍처를 활용한 차세대 악성코드 탐지 기법에 관한 연구 : 악성코드 시각화 및 식별 모델
-- 📝 MDDeResearch on Next-Generation Malware Detection Techniques Using Deep Neural Network Architectures : Development of the Malware Visualization and Identification Model MDDenseResNet
+- 📝 심층 신경망 아키텍처를 활용한 차세대 악성코드 탐지 기법에 관한 연구: 악성코드 시각화 및 탐지모델 MDDenseResNet 개발
+- 📝 MDDeResearch on Next-Generation Malware Detection Techniques Using Deep Neural Network Architectures: Development of the Malware Visualization and Detection Model MDDenseResNet
 
 ## 👨‍💻 Contributors
 Seoul National University GSDS NLP Labs
