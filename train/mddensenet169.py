@@ -4,7 +4,7 @@ from models.MDNet import *
 
 print(torch.cuda.is_available())
 
-path = Path('./data/img/malware_5')
+path = Path('./data/img/malware_10')
 path.ls()
 
 """## Dataset & Training"""
