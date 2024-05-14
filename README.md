@@ -67,7 +67,7 @@ MDResNet models demonstrate unparalleled efficiency in identifying malicious sof
 - 📝 ***Next-Generation Malware Detection Techniques Using Deep Neural Network Architectures: Development of the Malware Visualization and Detection Model MDDenseResNet***
 
 ## 👨‍💻 Contributors
-- Seoul National University GSDS NLP Labs
+- **Seoul National University Graduate School of Data Science (GSDS)**
 - Under the guidance of ***Navy Lee***
 
 ## 📜 License
