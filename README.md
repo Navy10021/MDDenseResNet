@@ -11,8 +11,8 @@ With the advent of the digital age, cyberspace has been exposed to a variety of 
 
 In this project, we transform malware into images and introduce an advanced neuron network-based malware detection AI model. Inspired by **ResNet (Microsoft, 2015)** and **DenseNet (Meta, 2016)** image analysis models, we develop three models:
 1. ***MDResNet*** (Residual Network for Malware Detection)
-2. ***MDDenseNet*** (Dense Network Malware Detection)
-3. ***MDDenseResNet*** (Hybrid Model)
+2. ***MDDenseNet*** (Dense Network for Malware Detection)
+3. ***MDDenseResNet*** (Hybrid Model for Malware Detection)
 
 ## 📋 Table of Contents
 - [Dataset](#-dataset)
