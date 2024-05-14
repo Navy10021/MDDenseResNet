@@ -52,8 +52,8 @@ Data preprocessing and training & evaluation of the models with ease:
 $ python train/mdresnet18.py
 $ python train/mddensenet121.py
 $ python train/mddenseresnet.py
-Refer to the Jupyter notebook in [notebooks/MDResNet18_malware_10.ipynb](notebooks/MDResNet18_malware_10.ipynb) for a detailed usage example.
 ```
+Refer to the Jupyter notebook in [notebooks/MDResNet18_malware_10.ipynb](notebooks/MDResNet18_malware_10.ipynb) for a detailed usage example.
 
 ## 📈 Results
 
