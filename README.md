@@ -42,6 +42,15 @@ Refer to the Jupyter notebook in ***notebooks/Malware_Dataset.ipynb***
 
 ## 🚀 Usage and Example
 Data preprocessing and Train & evaluate the models with ease :
+```python
+$ python train/mdresnet18.py
+```
+```python
+$ python train/mddensenet121.py
+```
+```python
+$ python train/mddenseresnet.py
+```
 Refer to the Jupyter notebook in ***notebooks/MDDenseResNet18_malware_500.ipynb.ipynb*** for a detailed usage example.
 
 ## 📈 Results
