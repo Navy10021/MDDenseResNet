@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ MDDenseResNet: Enhanced Malware Detection Using Deep Neural Networks (DNNs)
+# 🛡️ MDDenseResNet: Enhanced Malware Detection Using Deep Neural Networks
 
 </div>
 
