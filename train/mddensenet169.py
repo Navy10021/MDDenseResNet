@@ -35,6 +35,6 @@ learn = Learner(dls, model, loss_func=CrossEntropyLossFlat(), metrics=[accuracy,
 lr_min = 2e-4
 learn.fit_one_cycle(30, slice(lr_min))
 
-# Best Acc : 0.8159 (22 epoch)
+# Best Acc : 0.8369 (14 epoch)
 learn.recorder.plot_loss()
 #learn.recorder.plot_metrics()
