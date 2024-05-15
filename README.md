@@ -27,9 +27,9 @@ In this project, we transform malware into images and introduce an advanced neur
 
 Our models are trained on diverse malware image datasets, designed to challenge and test the robustness of MDResNet:
 
-- **Malware-5**: 5,000 images, derived from 12,000 base samples across 9 classes, using undersampling to ensure equity.
-- **Malware-10**: 18,000 images, enhanced with data augmentation for richer training data.
-- **Malware-30**: Our largest dataset with 38,000 images, providing the depth needed for comprehensive model training.
+- **MalwarePix-small**: 3,915 images, derived from 12,000 base samples across 9 classes, using undersampling to ensure equity.
+- **MalwarePix-medium**: 13,254 images, enhanced with data augmentation for richer training data.
+- **MalwarePix-large**: Our largest dataset with 26,478 images, providing the depth needed for comprehensive model training.
 
 Refer to the Jupyter notebook in [notebooks/Malware_Dataset.ipynb](notebooks/Malware_Dataset.ipynb) for more details.
 
