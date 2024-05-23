@@ -33,6 +33,9 @@ Our models are trained on diverse malware image datasets, designed to challenge 
 
 Refer to the Jupyter notebook in [notebooks/Malware_Dataset.ipynb](notebooks/Malware_Dataset.ipynb) for more details.
 
+![image](https://github.com/Navy10021/MDDenseResNet/assets/105137667/473c65eb-15c3-4019-9a31-8e49a317472e)
+
+
 ## 📦 Models: MDResNet | MDDenseNet | MDDenseResNet
 ### Key Components of MDDenseResNet
 #### 1. Residual Learning (from ResNet)
