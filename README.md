@@ -50,8 +50,10 @@ Refer to the Jupyter notebook in [notebooks/Malware_Dataset.ipynb](notebooks/Mal
 - **Resource Efficiency**: By combining these approaches, MDDenseResNet can achieve comparable or superior performance with fewer parameters and less computational overhead compared to using either architecture alone.
 
 ## 🚀 Usage and Example
+
 ### Overall Pipeline
-![image](https://github.com/Navy10021/MDDenseResNet/assets/105137667/f0975308-3875-4a86-ab75-4abbd62a4a0a)
+
+![image](https://github.com/Navy10021/MDDenseResNet/assets/105137667/f4ee0df5-6893-45e6-aa85-8929c2f55c6a)
 
 
 ### Usage
