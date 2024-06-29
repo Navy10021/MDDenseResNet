@@ -25,7 +25,7 @@ In this project, we transform malware into images and introduce an advanced neur
 
 ## 📊 Dataset
 
-Our models are trained on diverse malware image datasets, designed to challenge and test the robustness of MDResNet:
+Our models are trained on diverse malware image datasets, designed to challenge and test the robustness of MDDenseResNet:
 
 - **MalwarePix-small**: 3,915 images, derived from 12,000 base samples across 9 classes, using undersampling to ensure equity.
 - **MalwarePix-medium**: 13,254 images, enhanced with data augmentation for richer training data.
@@ -50,6 +50,11 @@ Refer to the Jupyter notebook in [notebooks/Malware_Dataset.ipynb](notebooks/Mal
 - **Resource Efficiency**: By combining these approaches, MDDenseResNet can achieve comparable or superior performance with fewer parameters and less computational overhead compared to using either architecture alone.
 
 ## 🚀 Usage and Example
+### Overall Pipeline
+![image](https://github.com/Navy10021/MDDenseResNet/assets/105137667/f0975308-3875-4a86-ab75-4abbd62a4a0a)
+
+
+### Usage
 Data preprocessing and training & evaluation of the models with ease:
 ```bash
 $ python train/mdresnet18.py
@@ -66,7 +71,7 @@ MDResNet models demonstrate unparalleled efficiency in identifying malicious sof
 
 ## 📚 Paper
 
-- 📝 ***심층 신경망 기반 차세대 악성코드 탐지에 관한 연구 : 악성코드 시각화 및 고성능 분류 / 이상탐지 모델 개***
+- 📝 ***심층 신경망 기반 차세대 악성코드 탐지에 관한 연구 : 악성코드 시각화 및 고성능 분류 / 이상탐지 모델 개발***
 - 📝 ***Research on Next-Generation Malware Detection using Deep Neural Networks: Malware Visualization and Development of High-performance Classification / Anomaly Detection Models***
 
 ## 👨‍💻 Contributors
