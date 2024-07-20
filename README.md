@@ -76,7 +76,8 @@ MDResNet models demonstrate unparalleled efficiency in identifying malicious sof
 
 - 📝 ***심층 신경망 기반 차세대 악성코드 탐지에 관한 연구: 악성코드 시각화 및 고성능 분류 / 이상 탐지 모델 개발***
 - 📝 ***Deep Neural Networks for Next-Generation Malware Detection: Malware Visualization Techniques and High-Performance Classification / Anomaly Detection Models***
-
+- 💻 ***Check out related projects on GitHub***: [Anomaly Detection Models for Malware Detection](https://github.com/Navy10021/MDAutoEncoder)
+  
 ## 👨‍💻 Contributors
 - **Seoul National University Graduate School of Data Science (GSDS)**
 - Under the guidance of ***Navy Lee***
