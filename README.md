@@ -70,7 +70,6 @@ Refer to the Jupyter notebook in [notebooks/MDResNet18_malware_medium.ipynb](not
 MDResNet models demonstrate unparalleled efficiency in identifying malicious software, particularly those elusive zero-day threats. Dive into our comprehensive performance analysis here.
 
 ![Table1](https://github.com/user-attachments/assets/407f9f8b-c590-419b-80ec-49bad75f779d)
-***Table 1: Performance Metrics of Different Models***
 
 ## 📚 Paper
 
