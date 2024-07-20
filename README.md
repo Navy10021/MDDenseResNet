@@ -33,7 +33,8 @@ Our models are trained on diverse malware image datasets, designed to challenge 
 
 Refer to the Jupyter notebook in [notebooks/Malware_Dataset.ipynb](notebooks/Malware_Dataset.ipynb) for more details.
 
-***You can download the data used in this project from the following link***: [Download Data from Google Drive](https://drive.google.com/drive/folders/1d6pnDUoJt7tDYyCFxDcDiTYa-2TdVn7N)
+**You can download the data from the following Google Drive folder:**
+📁 [Download Data from Google Drive](https://drive.google.com/drive/folders/1d6pnDUoJt7tDYyCFxDcDiTYa-2TdVn7N)
   
 ![image](https://github.com/Navy10021/MDDenseResNet/assets/105137667/6c6d3ab7-6f68-4773-b8a6-6937de17e503)
 
