@@ -36,8 +36,6 @@ Our models are trained on diverse malware image datasets, designed to challenge 
   
 ![image](https://github.com/Navy10021/MDDenseResNet/assets/105137667/6c6d3ab7-6f68-4773-b8a6-6937de17e503)
 
-Refer to the Jupyter notebook in [notebooks/Malware_Dataset.ipynb](notebooks/Malware_Dataset.ipynb) for more details.
-
 
 ## 📦 Models: MDResNet | MDDenseNet | MDDenseResNet
 ### Key Components of MDDenseResNet
