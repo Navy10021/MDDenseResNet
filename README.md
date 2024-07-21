@@ -40,10 +40,10 @@ Our models are trained on diverse malware image datasets, designed to challenge 
 ## 📦 Models: MDResNet | MDDenseNet | MDDenseResNet
 ### Key Components of MDDenseResNet
 #### 1. Residual Learning (from ResNet)
-- **Residual Blocks**: The building blocks of ResNet, where the input to a block is directly added to the output of the block through a shortcut connection. This helps in training deeper networks by enabling direct backward paths for gradients during training, effectively addressing the vanishing gradient problem.
+- **Residual Blocks**: The building blocks of ResNet, where the input to a block is directly added to the output of the block through a shortcut connection. This helps train deeper networks by enabling direct backward paths for gradients during training, effectively addressing the vanishing gradient problem.
 
 #### 2. Dense Connectivity (from DenseNet)
-- **Dense Blocks**: Each layer within a dense block receives feature maps from all preceding layers as input and passes its own feature maps to all subsequent layers. This ensures maximum information flow between layers in the network, leading to highly efficient use of features and reduced redundancy in feature learning.
+- **Dense Blocks**: Each layer within a dense block receives feature maps from all preceding layers as input and passes its feature maps to all subsequent layers. This ensures maximum information flow between layers in the network, leading to highly efficient use of features and reduced redundancy in feature learning.
 
 ### Benefits of MDDenseResNet
 - **Enhanced Gradient Flow**: Combines the direct gradient paths of ResNet with the enriched feature reuse of DenseNet, potentially leading to better training dynamics and convergence.
@@ -64,7 +64,7 @@ $ python train/mdresnet18.py
 $ python train/mddensenet121.py
 $ python train/mddenseresnet.py
 ```
-Refer to the Jupyter notebook in [notebooks/MDResNet18_malware_medium.ipynb](notebooks/MDResNet18_malware_medium.ipynb) for a detailed usage example.
+Please look at the Jupyter notebook in [notebooks/MDResNet18_malware_medium.ipynb](notebooks/MDResNet18_malware_medium.ipynb) for a detailed usage example.
 
 ## 📈 Results
 
