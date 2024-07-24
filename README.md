@@ -79,7 +79,7 @@ MDResNet models demonstrate unparalleled efficiency in identifying malicious sof
 - 💻 ***Check out related project on GitHub***: [MDAuto-Encoder : Anomaly Detection AutoEncoder Model for Malware Detection](https://github.com/Navy10021/MDAutoEncoder)
   
 ## 👨‍💻 Contributors
-- **Seoul National University Graduate School of Data Science (GSDS)**
+- **Seoul National University Graduate School of Data Science (SNU GSDS)**
 - Under the guidance of ***Navy Lee***
 
 ## 📜 License
