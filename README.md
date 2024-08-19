@@ -27,7 +27,7 @@ In this project, we transform malware into images and introduce an advanced neur
 
 ## 📊 Dataset
 
-Our models are trained on diverse malware image datasets, designed to challenge and test the robustness of MDDenseResNet:
+Our models are trained on diverse malware image datasets, designed to challenge and test the robustness of **MDDenseResNet**:
 
 - **MalwarePix-small**: 3,915 images, derived from 12,000 base samples across 9 classes, using undersampling to ensure equity.
 - **MalwarePix-medium**: 13,254 images, enhanced with data augmentation for richer training data.
@@ -70,7 +70,7 @@ Please look at the Jupyter notebook in [notebooks/MDResNet18_malware_medium.ipyn
 
 ## 📈 Results
 
-MDResNet models demonstrate unparalleled efficiency in identifying malicious software, particularly those elusive zero-day threats. Dive into our comprehensive performance analysis here.
+**MDResNet** models demonstrate unparalleled efficiency in identifying malicious software, particularly those elusive zero-day threats. Dive into our comprehensive performance analysis here.
 
 ![Table1](https://github.com/user-attachments/assets/407f9f8b-c590-419b-80ec-49bad75f779d)
 
@@ -78,7 +78,7 @@ MDResNet models demonstrate unparalleled efficiency in identifying malicious sof
 
 - 📝 ***심층 신경망 기반 차세대 악성코드 탐지에 관한 연구: 악성코드 시각화 및 고성능 분류 / 이상 탐지 모델 개발***
 - 📝 ***Deep Neural Networks for Next-Generation Malware Detection: Malware Visualization Techniques and High-Performance Classification / Anomaly Detection Models***
-- 💻 ***Check out related project on GitHub***: [MDAuto-Encoder : Anomaly Detection AutoEncoder Model for Malware Detection](https://github.com/Navy10021/MDAutoEncoder)
+- 💻 ***Check out related project on GitHub***: [MDAutoEncoder : Anomaly Detection AutoEncoder Model for Malware Detection](https://github.com/Navy10021/MDAutoEncoder)
   
 ## 👨‍💻 Contributors
 - **Seoul National University Graduate School of Data Science (SNU GSDS)**
