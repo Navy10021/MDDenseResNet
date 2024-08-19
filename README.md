@@ -60,7 +60,7 @@ Our models are trained on diverse malware image datasets, designed to challenge 
 
 
 ### Usage
-Data preprocessing and training & evaluation of the models with ease:
+Effortlessly preprocess data, train, and evaluate models using the following commands:
 ```bash
 $ python train/mdresnet18.py
 $ python train/mddensenet121.py
@@ -70,7 +70,7 @@ Please look at the Jupyter notebook in [notebooks/MDResNet18_malware_medium.ipyn
 
 ## 📈 Results
 
-**MDResNet** models demonstrate unparalleled efficiency in identifying malicious software, particularly those elusive zero-day threats. Dive into our comprehensive performance analysis here.
+The **MDDenseResNet** model demonstrates unparalleled efficiency in identifying malicious software, particularly complex malware threats. The table below presents a comprehensive performance analysis of our model.
 
 ![Table1](https://github.com/user-attachments/assets/407f9f8b-c590-419b-80ec-49bad75f779d)
 
