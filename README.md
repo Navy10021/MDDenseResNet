@@ -68,7 +68,7 @@ $ python train/mddenseresnet.py
 ```
 Please look at the Jupyter notebook in [notebooks/MDResNet18_malware_medium.ipynb](notebooks/MDResNet18_malware_medium.ipynb) for a detailed usage example.
 
-## 📈 Results
+## 📈 Malware Detection Performance Evaluation Results
 
 The **MDDenseResNet** model demonstrates unparalleled efficiency in identifying malicious software, particularly complex malware threats. The table below presents a comprehensive performance analysis of our model.
 
